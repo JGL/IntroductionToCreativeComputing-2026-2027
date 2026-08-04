@@ -7,7 +7,7 @@ For more information about the lectures, workshops and discussions, please see t
 ## Information
 
 - [All term dates](https://www.arts.ac.uk/students/term-dates) - N.B. if you are doing a degree at UAL you are in [Higher Education](https://en.wikipedia.org/wiki/Higher_education).
-- For students taking the Year 0 or Foundation Year the BSc in Creative Computing lasts for four academic years (i.e. from September to June)and is split into two blocks. Block 1 lasts all of the Autumn term (September-December) and the first half of the Spring term (January-March). Block 2 lasts for the second half of the Spring term (January-March) and all of the Summer term (April-June).
+- For students taking the Year 0 or Foundation Year the BSc in Creative Computing lasts for four academic years (i.e. from September to June) and is split into two blocks. Block 1 lasts all of the Autumn term (September-December) and the first half of the Spring term (January-March). Block 2 lasts for the second half of the Spring term (January-March) and all of the Summer term (April-June).
 - Location: [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London and online!
 - The unit is led by Senior Lecturer in Creative Computing and Course Leader, Apple Development: [Joel Gethin Lewis](https://joelgethinlewis.com/). Contact either of Joel via the [UAL CCI Slack](https://ual-cci.slack.com).
 - Weekly schedule:
@@ -16,7 +16,7 @@ For more information about the lectures, workshops and discussions, please see t
 - _**You are expected to undertake independent study of about 25 hours per week - spread across all the units of the Diploma in Apple Development.**_
 - [Course Moodle link (UAL access only)](https://moodle.arts.ac.uk/course/view.php?id=85897) TBC!
 - [Lecture and Workshop slides](https://jgl.github.io/IntroductionToCreativeComputing-2026-2027/)
-- Please see the [course wiki for all non-lecture notes, list of people on the course and other resources](https://jgl.github.io/IntroductionToCreativeComputing-2026-2027/wiki).
+- Please see the [course wiki for all non-lecture notes, list of people on the course and other resources](https://www.github.com/jgl/IntroductionToCreativeComputing-2026-2027/wiki).
 - Please email CCI Undergraduate Programme Admin for help with any administrative matters such as ID access, finance, timetable issues, etc. Their email is [cci.ug@arts.ac.uk](mailto:cci.ug@arts.ac.uk).
 
 ## Code of Conduct
