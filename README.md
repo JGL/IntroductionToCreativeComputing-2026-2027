@@ -1,8 +1,10 @@
 # IntroductionToCreativeComputing-2026-2027
 
-Lecture slides, wiki and examples from the Introduction to Creative Computing unit of Year 0, Block 1 of the Creative Computing Institute's BSc in Creative Computing
+Lecture slides, wiki and examples from the 2026-2027 Introduction to Creative Computing unit of Year 0, Block 1 of the Creative Computing Institute's BSc in Creative Computing.
 
-For more information about the lectures, workshops and discussions, please see the website of the unit: <https://jgl.github.io/IntroductionToCreativeComputing-2026-2027/>
+For more information about the content of the lectures, please see the website of the unit: <https://jgl.github.io/IntroductionToCreativeComputing-2026-2027/>.
+
+Other information is available on [the wiki](https://github.com/JGL/IntroductionToCreativeComputing-2026-2027/wiki).
 
 ## Information
 
