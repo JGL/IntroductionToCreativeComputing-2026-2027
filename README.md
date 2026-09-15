@@ -87,26 +87,31 @@ Please read [UAL's guidance for students on how they will be assessed](https://w
 
 1. Portfolio, based on 10 weeks of working in class.
 2. Reflective statement.
+3. Statement about AI use (see course handbook for more information)
 
 Finally, some tips about how to get the best grades possible:
 
-- Showing references to where you got information from.
+- Get into the habit of adding to your portfolio and reflective statement week by week - an hour a week will go a long way!
+- Showing references to where you got information or inspiration from.
 - Do more than is requested in the brief.
-- Make it personal! Add your own graphics, text or other elements to make an app that only you could make. Make apps that you want to use.
+- Make it personal! How can you make it uniquely you?
+- When making your statement, write honestly about the experience of the unit - the challenges and successes. 
 
-## Counselling, Health Advice and Chaplaincy information
+## Mental Health & Wellbeing Support
 
-Support is available! Complete the team's online form to request support for your physical health, mental health or wellbeing. Appointments are available on college sites in person, online or on the phone.
+Your mental health and wellbeing matter. UAL's Counselling, Health Advice and Chaplaincy service offers free, confidential support for your mental, physical, and emotional wellbeing — in person on college sites, online, or by phone.
 
-See: <https://www.arts.ac.uk/students/student-services/counselling-health-advice-and-chaplaincy> for more information.
+Mental health & wellbeing: studenthealth@arts.ac.uk • +44 (0)20 7514 6426
+Counselling & appointments: counselling@arts.ac.uk: +44 (0)20 7514 6251
 
-Mental health first aiders: <https://canvas.arts.ac.uk/sites/explore/SitePage/255620/mental-health-first-aiders>
+Duty team available 10am-4.30pm, Monday to Friday, during term time.
 
-Urgent mental health support - Monday - Saturday 9.30-5pm. Call 020 7514 6251 and ask to speak the Duty Worker.
+Also available to you:
+* 20-minute wellbeing sessions - quick, bookable one-to-one support, online or in person.
+* Togetherall — free, safe 24/7 online mental health support; register with your UAL email.
+* Find everything here: <https://www.arts.ac.uk/students/student-services/counselling-health-advice-and-chaplaincy>
 
-Email <studenthealth@arts.ac.uk> if you need urgent support from the Counselling and Health Advice Service. Available Monday to Saturday (term time), 9.30am to 5pm.
-
-Urgent support - out of hours: <https://www.arts.ac.uk/students/student-services/out-of-hours-support>
+In an emergency or if you need urgent help, see the service's [Urgent Support page](https://www.arts.ac.uk/students/student-services/counselling-health-advice-and-chaplaincy/helplines-and-emergency-support), or call 999 if you or someone else is in immediate danger.
 
 ## Student parent and carer support
 
@@ -125,11 +130,15 @@ UAL’s definition of caring responsibilities adopts the definition from The Car
 
 See: <https://www.arts.ac.uk/students/student-diversity/student-parent-and-carer-support> for more information.
 
-## Disability Service information
+## Disability & Neurodiversity Support
 
-The Disability Adviser for Creative Computing Institute is Caroline Huntley. Their contact details are [c.huntley@arts.ac.uk](mailto:c.huntley@arts.ac.uk). All appointments are confidential, and can be in-person, on the phone, or on Microsoft Teams. You can also call 020 7514 6156 or email [disability@arts.ac.uk](mailto:disability@arts.ac.uk).
+The Disability Service provides professional advice and support for students who are disabled and neurodivergent. They listen first to identify and remove disabling barriers. They empower students to achieve their full potential and support UAL to be inclusive.
+
+The Disability Adviser for Creative Computing Institute is Zakira Begum. Their contact details are [z.begum@arts.ac.uk](mailto:z.begum@arts.ac.uk). Their working pattern is Tuesdays and Thursdays. You can also contact the wider disability team: call 020 7514 6156 or email [disability@arts.ac.uk](mailto:disability@arts.ac.uk).
 
 All appointments are confidential, and can be in-person, on the phone, or on Microsoft Teams.
+
+If forms are difficult, you can email the service and they will complete it with you. The Disability Service is also the first point of contact for queries about an Education, Health and Care Plan (EHCP).
 
 ### Who can access support
 
