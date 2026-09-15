@@ -81,9 +81,7 @@ Please read [UAL's guidance for students on how they will be assessed](https://w
 5. **Realisation**
    - Realisation is about the work you create and how this reveals what you’ve learned. It’s taking a look back and evaluating the work you’ve produced.
 
-### Block 1 Assessment
-
-- **Introduction to Creative Computing**:
+### Assessment requirements:
 
 1. Portfolio, based on 10 weeks of working in class.
 2. Reflective statement.
@@ -101,7 +99,7 @@ Finally, some tips about how to get the best grades possible:
 
 Your mental health and wellbeing matter. UAL's Counselling, Health Advice and Chaplaincy service offers free, confidential support for your mental, physical, and emotional wellbeing — in person on college sites, online, or by phone.
 
-* Mental health & wellbeing: studenthealth@arts.ac.uk • +44 (0)20 7514 6426
+* Mental health & wellbeing: studenthealth@arts.ac.uk +44 (0)20 7514 6426
 * Counselling & appointments: counselling@arts.ac.uk: +44 (0)20 7514 6251
 
 Duty team available 10am-4.30pm, Monday to Friday, during term time.
