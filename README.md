@@ -91,18 +91,18 @@ Please read [UAL's guidance for students on how they will be assessed](https://w
 
 Finally, some tips about how to get the best grades possible:
 
-- Get into the habit of adding to your portfolio and reflective statement week by week - an hour a week will go a long way!
-- Showing references to where you got information or inspiration from.
-- Do more than is requested in the brief.
-- Make it personal! How can you make it uniquely you?
-- When making your statement, write honestly about the experience of the unit - the challenges and successes. 
+* Get into the habit of adding to your portfolio and reflective statement week by week - an hour a week will go a long way!
+* Showing references to where you got information or inspiration from.
+* Do more than is requested in the brief.
+* Make it personal! How can you make it uniquely you?
+* When making your statement, write honestly about the experience of the unit - the challenges and successes. 
 
 ## Mental Health & Wellbeing Support
 
 Your mental health and wellbeing matter. UAL's Counselling, Health Advice and Chaplaincy service offers free, confidential support for your mental, physical, and emotional wellbeing — in person on college sites, online, or by phone.
 
-Mental health & wellbeing: studenthealth@arts.ac.uk • +44 (0)20 7514 6426
-Counselling & appointments: counselling@arts.ac.uk: +44 (0)20 7514 6251
+* Mental health & wellbeing: studenthealth@arts.ac.uk • +44 (0)20 7514 6426
+* Counselling & appointments: counselling@arts.ac.uk: +44 (0)20 7514 6251
 
 Duty team available 10am-4.30pm, Monday to Friday, during term time.
 
