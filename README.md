@@ -11,7 +11,7 @@ Other information is available on [the wiki](https://github.com/JGL/Introduction
 - [All term dates](https://www.arts.ac.uk/students/term-dates) - N.B. if you are doing a degree at UAL you are in [Higher Education](https://en.wikipedia.org/wiki/Higher_education).
 - For students taking the Year 0 or Foundation Year the BSc in Creative Computing lasts for four academic years (i.e. from September to June) and is split into two blocks. Block 1 lasts all of the Autumn term (September-December) and the first half of the Spring term (January-March). Block 2 lasts for the second half of the Spring term (January-March) and all of the Summer term (April-June).
 - Location: [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London and online!
-- The unit is led by Senior Lecturer in Creative Computing and Course Leader, Apple Development: [Joel Gethin Lewis](https://joelgethinlewis.com/). Contact either of Joel via the [UAL CCI Slack](https://ual-cci.slack.com).
+- The unit is led by Senior Lecturer in Creative Computing: [Joel Gethin Lewis](https://joelgethinlewis.com/). Contact Joel via the [UAL CCI Slack](https://ual-cci.slack.com).
 - Weekly schedule:
   - Tuesday morning: 0930-1330, in person at [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London. Room PR_B501F, taught by [Joel](https://joelgethinlewis.com).
     - Block 1: Introduction to Creative Computing
@@ -89,25 +89,26 @@ Please read [UAL's guidance for students on how they will be assessed](https://w
 
 Finally, some tips about how to get the best grades possible:
 
-* Get into the habit of adding to your portfolio and reflective statement week by week - an hour a week will go a long way!
-* Showing references to where you got information or inspiration from.
-* Do more than is requested in the brief.
-* Make it personal! How can you make it uniquely you?
-* When making your statement, write honestly about the experience of the unit - the challenges and successes. 
+- Get into the habit of adding to your portfolio and reflective statement week by week - an hour a week will go a long way!
+- Showing references to where you got information or inspiration from.
+- Do more than is requested in the brief.
+- Make it personal! How can you make it uniquely you?
+- When making your statement, write honestly about the experience of the unit - the challenges and successes.
 
 ## Mental Health & Wellbeing Support
 
 Your mental health and wellbeing matter. UAL's Counselling, Health Advice and Chaplaincy service offers free, confidential support for your mental, physical, and emotional wellbeing — in person on college sites, online, or by phone.
 
-* Mental health & wellbeing: studenthealth@arts.ac.uk / +44 (0)207 5146426
-* Counselling & appointments: counselling@arts.ac.uk / +44 (0)207 5146251
+- Mental health & wellbeing: studenthealth@arts.ac.uk / +44 (0)207 5146426
+- Counselling & appointments: counselling@arts.ac.uk / +44 (0)207 5146251
 
 Duty team available 10am-4.30pm, Monday to Friday, during term time.
 
 Also available to you:
-* 20-minute wellbeing sessions - quick, bookable one-to-one support, online or in person.
-* Togetherall — free, safe 24/7 online mental health support; register with your UAL email.
-* Find everything here: <https://www.arts.ac.uk/students/student-services/counselling-health-advice-and-chaplaincy>
+
+- 20-minute wellbeing sessions - quick, bookable one-to-one support, online or in person.
+- Togetherall — free, safe 24/7 online mental health support; register with your UAL email.
+- Find everything here: <https://www.arts.ac.uk/students/student-services/counselling-health-advice-and-chaplaincy>
 
 In an emergency or if you need urgent help, see the service's [Urgent Support page](https://www.arts.ac.uk/students/student-services/counselling-health-advice-and-chaplaincy/helplines-and-emergency-support), or call 999 if you or someone else is in immediate danger.
 
