@@ -15,7 +15,7 @@ Other information is available on [the wiki](https://github.com/JGL/Introduction
 - Weekly schedule:
   - Tuesday morning: 0930-1330, in person at [Creative Computing Institute(CCI)](https://www.arts.ac.uk/creative-computing-institute), Camberwell, London. Room PR_B501F, taught by [Joel](https://joelgethinlewis.com).
     - Block 1: Introduction to Creative Computing
-- _**You are expected to undertake independent study of about 25 hours per week - spread across all the units of the Diploma in Apple Development.**_
+- _**You are expected to undertake independent study of about 25 hours per week - spread across all the units of the BSc in Creative Computing.**_
 - [Course Moodle link (UAL access only)](https://moodle.arts.ac.uk/course/view.php?id=85897) TBC!
 - [Lecture and Workshop slides](https://jgl.github.io/IntroductionToCreativeComputing-2026-2027/)
 - Please see the [course wiki for all non-lecture notes, list of people on the course and other resources](https://www.github.com/jgl/IntroductionToCreativeComputing-2026-2027/wiki).
